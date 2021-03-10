@@ -1,0 +1,9 @@
+The series of questions are uploaded by the series given below. The index of question is saved correspondingly
+
+1. Hello World
+2. Python If Else
+3. Arithmetic Operators
+4. Python: Division
+5. Loops
+6. Write a Function
+7. Print Function
