@@ -1,9 +1,22 @@
 The series of questions are uploaded by the series given below. The index of question is saved correspondingly
 
-1. Hello World
-2. Python If Else
-3. Arithmetic Operators
-4. Python: Division
+1. Hello_World
+2. Python_If_Else
+3. Arithmetic_Operators
+4. Python_Division
 5. Loops
-6. Write a Function
-7. Print Function
+6. Write_a_Function
+7. Print_Function
+8. List_Comprehension
+9. Find_The_runner_up_score
+10. Nested_loop
+11. Finding_the_percentage
+12. Lists
+13. Tuples
+14. Swap_Case
+15. String_split_join
+16. what_your_name
+17. Mutations
+18. find_string
+19. String_validators
+20. Text_alignment
