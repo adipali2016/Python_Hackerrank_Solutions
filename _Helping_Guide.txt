@@ -20,3 +20,12 @@ The series of questions are uploaded by the series given below. The index of que
 18. find_string
 19. String_validators
 20. Text_alignment
+21. Text_wrap
+22. Designer_Door_Mat
+23. String_Formatting
+24. Alphabet_rangoli
+25. Capitalize
+26. the_minion_game
+27. Merge_the_tools
+28 itertools_product
+29. itertools_permutations
