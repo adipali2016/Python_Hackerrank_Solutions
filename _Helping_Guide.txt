@@ -29,3 +29,9 @@ The series of questions are uploaded by the series given below. The index of que
 27. Merge_the_tools
 28 itertools_product
 29. itertools_permutations
+30. Polar_coordinates
+31. Find_Angle_MBC
+32. Triangle_quest_2
+33. Check_subset
+34. arrays
+35. shape_and_reshape
