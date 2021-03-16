@@ -35,3 +35,5 @@ The series of questions are uploaded by the series given below. The index of que
 33. Check_subset
 34. arrays
 35. shape_and_reshape
+36. Collections_counter
+37. Defaultdict_tutorial
