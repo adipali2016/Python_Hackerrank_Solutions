@@ -1,0 +1,5 @@
+n,m = list(map(int, input().split()))
+n_lt = list(map(int, input().split()))
+a_lt = set(map(int, input().split()))
+b_lt = set(map(int, input().split()))
+print(sum([(i in a_lt) - (i in b_lt) for i in n_lt]))

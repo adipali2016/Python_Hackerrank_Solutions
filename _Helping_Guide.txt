@@ -37,3 +37,7 @@ The series of questions are uploaded by the series given below. The index of que
 35. shape_and_reshape
 36. Collections_counter
 37. Defaultdict_tutorial
+38. Introduction_to_sets
+39. Set_add
+40. Symmetric_difference
+41. No_idea
