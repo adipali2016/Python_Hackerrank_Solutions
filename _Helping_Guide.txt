@@ -41,3 +41,4 @@ The series of questions are uploaded by the series given below. The index of que
 39. Set_add
 40. Symmetric_difference
 41. No_idea
+42. Triangle_quest
